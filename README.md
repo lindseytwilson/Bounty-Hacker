@@ -7,7 +7,7 @@ The first thing I did was run a nmap scan to determine what ports were open. The
 The second step to my enumeration was to go to the webpage to see if there was any valuable information, which I didn't find.
 
 Command: namp -sCV 10.10.212.36
-![nmap scan]()
+![nmap scan](https://github.com/lindseytwilson/Bounty-Hacker/blob/main/Images/nmap.png)
 
 ### Task 1: Who wrote the task list?
 
